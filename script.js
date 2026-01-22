@@ -5,7 +5,7 @@ let isRecording = false;
 let selectedFiles = [];
 
 // رابط Google Apps Script (يجب استبداله بعد النشر)
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxmfpDEIXuZMh4mYCP68nZaMXLwfQvEdCAYXzFNC8S_tUK4qU5rULSVWpBuiuM4D0Eu/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyJEH9FZxlX4LNgMfOe0N6y7VWigGeTzrVxXMSzNfZ2Vv-9IOyoIDMI9fLir455SxjXpQ/exec';
 
 // تهيئة الصفحة
 document.addEventListener('DOMContentLoaded', function () {
